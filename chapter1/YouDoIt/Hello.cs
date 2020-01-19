@@ -10,7 +10,7 @@ using static System.Console;
 
 namespace ch1_ex1
 {
-    class Program
+    class Hello
     {
         static void Main()
             /* This program demonstrates the use of the WriteLine()
