@@ -1,6 +1,10 @@
 ﻿// Filename: Hello.cs
 // Written by: Kelley Fischer
 // Written on: 01/19/20
+// Description: 
+//      Chapter 1 - You Do It Exercise.
+//      Displays the message "Hello, world!".
+// Encountered Issues: None;
 
 using static System.Console;
 
