@@ -8,7 +8,7 @@
 
 using static System.Console;
 
-namespace ch1_ex1
+namespace YouDoIt
 {
     class Hello
     {

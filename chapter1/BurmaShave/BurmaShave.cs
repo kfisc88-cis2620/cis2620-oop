@@ -7,7 +7,7 @@
 // Encountered Issues: None;
 using static System.Console;
 
-namespace BurmaShave
+namespace Exercise9
 {
     class BurmaShave
     {
