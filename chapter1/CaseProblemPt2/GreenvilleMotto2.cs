@@ -1,5 +1,5 @@
 ﻿// Filename: GreenvilleMotto2.cs
-// Written by: Kelley Fischer
+// Written by: Ian Lundquist & Kelley Fischer
 // Written on: 01/19/20
 // Description: 
 //      Chapter 1 - Case Problem 1, Part 2
