@@ -1,9 +1,10 @@
-﻿// Filename: ex1_InchesToCentimetersGUI.csproj
+﻿// Filename: ex6_TestsInteractiveGUI.csproj
 // Written by: Kelley Fischer
 // Written on: 01/29/20
 // Description: 
-//      Chapter 3 - Exercise 1
-//      Receives input from a user for number of inches and converts it to centimeters.
+//      Chapter 3 - Exercise 6
+//      User enters five test scores and the program calculates the average
+//      score.
 // Encountered Issues: None;
 
 using System;
@@ -12,7 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ch3_exercise1
+namespace ex6_TestsInteractiveGUI
 {
     static class Program
     {
@@ -24,7 +25,7 @@ namespace ch3_exercise1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InchesToCentimetersGUI());
+            Application.Run(new TestsInteractiveGUI());
         }
     }
 }

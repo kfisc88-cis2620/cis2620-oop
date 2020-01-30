@@ -1,10 +1,12 @@
-﻿// Filename: ex1_InchesToCentimetersGUI.csproj
+﻿// Filename: ex5_MakeChangeGUI.csproj
 // Written by: Kelley Fischer
 // Written on: 01/29/20
 // Description: 
-//      Chapter 3 - Exercise 1
-//      Receives input from a user for number of inches and converts it to centimeters.
+//      Chapter 3 - Exercise 5
+//      User enters a whole dollar amount and the program returns the amount of 
+//      each bill required to make that amount.
 // Encountered Issues: None;
+
 
 using System;
 using System.Collections.Generic;
@@ -12,7 +14,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ch3_exercise1
+namespace ex5_MakeChangeGUI
 {
     static class Program
     {
@@ -24,7 +26,7 @@ namespace ch3_exercise1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InchesToCentimetersGUI());
+            Application.Run(new Form1());
         }
     }
 }

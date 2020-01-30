@@ -1,9 +1,10 @@
-﻿// Filename: ex1_InchesToCentimetersGUI.csproj
+﻿// Filename: ex3_MoveEstimatorGUI.csproj
 // Written by: Kelley Fischer
 // Written on: 01/29/20
 // Description: 
-//      Chapter 3 - Exercise 1
-//      Receives input from a user for number of inches and converts it to centimeters.
+//      Chapter 3 - Exercise 3
+//      Gets number of hours and number of miles from user, then calculates the totals at
+//      the rates $150/hr, $2/mi, and $200 base charge. 
 // Encountered Issues: None;
 
 using System;
@@ -12,7 +13,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ch3_exercise1
+namespace ex3_MoveEstimatorGUI
 {
     static class Program
     {
@@ -24,7 +25,7 @@ namespace ch3_exercise1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new InchesToCentimetersGUI());
+            Application.Run(new Form1());
         }
     }
 }

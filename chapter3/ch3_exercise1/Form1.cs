@@ -1,4 +1,12 @@
-﻿using System;
+﻿// Filename: ex1_InchesToCentimetersGUI.csproj
+// Written by: Kelley Fischer
+// Written on: 01/29/20
+// Description: 
+//      Chapter 3 - Exercise 1
+//      Receives input from a user for number of inches and converts it to centimeters.
+// Encountered Issues: None;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
