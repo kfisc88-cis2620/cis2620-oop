@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex5_MakeChangeGUI", "ex5_Ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex6_TestsInteractiveGUI", "ex6_TestsInteractiveGUI\ex6_TestsInteractiveGUI.csproj", "{93550C7C-589F-44F6-928B-F8C93CEC0CA5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex7_MonthNamesGUI", "ex7_MonthNamesGUI\ex7_MonthNamesGUI.csproj", "{F657B39B-3700-4763-AF90-285C073347A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex8_PigLatinGUI", "ex8_PigLatinGUI\ex8_PigLatinGUI.csproj", "{C517DE53-0B37-47CF-B9A9-1BF21F9510F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{93550C7C-589F-44F6-928B-F8C93CEC0CA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93550C7C-589F-44F6-928B-F8C93CEC0CA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93550C7C-589F-44F6-928B-F8C93CEC0CA5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F657B39B-3700-4763-AF90-285C073347A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F657B39B-3700-4763-AF90-285C073347A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F657B39B-3700-4763-AF90-285C073347A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F657B39B-3700-4763-AF90-285C073347A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C517DE53-0B37-47CF-B9A9-1BF21F9510F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C517DE53-0B37-47CF-B9A9-1BF21F9510F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C517DE53-0B37-47CF-B9A9-1BF21F9510F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C517DE53-0B37-47CF-B9A9-1BF21F9510F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
