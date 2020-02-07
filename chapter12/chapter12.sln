@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29709.97
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ydi_BedAndBreakfast", "ydi1_BedAndBreakfast\ydi_BedAndBreakfast.csproj", "{3D4F92BA-1493-4740-9B31-5F6B928FF48C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex4_MyFlix", "ex4_MyFlix\ex4_MyFlix.csproj", "{874FD3CC-BD77-4343-B1FB-8B6A1E941128}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex7_VacationPlanner", "ex7_VacationPlanner\ex7_VacationPlanner.csproj", "{449850E4-39BC-4FEC-B29A-690E25993DEA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex11_MenuStripDemo2", "ex11_MenuStripDemo2\ex11_MenuStripDemo2.csproj", "{56B8F802-211C-4F18-B78E-9B6CA8E2ECF0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D4F92BA-1493-4740-9B31-5F6B928FF48C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D4F92BA-1493-4740-9B31-5F6B928FF48C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D4F92BA-1493-4740-9B31-5F6B928FF48C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D4F92BA-1493-4740-9B31-5F6B928FF48C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{874FD3CC-BD77-4343-B1FB-8B6A1E941128}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{874FD3CC-BD77-4343-B1FB-8B6A1E941128}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{874FD3CC-BD77-4343-B1FB-8B6A1E941128}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{874FD3CC-BD77-4343-B1FB-8B6A1E941128}.Release|Any CPU.Build.0 = Release|Any CPU
+		{449850E4-39BC-4FEC-B29A-690E25993DEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{449850E4-39BC-4FEC-B29A-690E25993DEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{449850E4-39BC-4FEC-B29A-690E25993DEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{449850E4-39BC-4FEC-B29A-690E25993DEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56B8F802-211C-4F18-B78E-9B6CA8E2ECF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56B8F802-211C-4F18-B78E-9B6CA8E2ECF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56B8F802-211C-4F18-B78E-9B6CA8E2ECF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56B8F802-211C-4F18-B78E-9B6CA8E2ECF0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE9D773C-1599-4038-854D-8C61958E5BAD}
+	EndGlobalSection
+EndGlobal
