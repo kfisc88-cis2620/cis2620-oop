@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ex5b_CheckMonth
+namespace ex8_RockPaperScissors
 {
     static class Program
     {
@@ -16,7 +16,7 @@ namespace ex5b_CheckMonth
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new CheckMonth());
+            Application.Run(new RockPaperScissors());
         }
     }
 }

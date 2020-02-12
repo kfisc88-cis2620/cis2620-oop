@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace ex5b_CheckMonth.Properties
+namespace ex8_RockPaperScissors.Properties
 {
 
 

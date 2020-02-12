@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex4_Hurricane", "ex4_Hurric
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex5a_CheckMonth", "ex5a_CheckMonth\ex5a_CheckMonth.csproj", "{279FD9A9-0DE9-456C-9C62-16B7E52F150B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex5b_CheckMonth", "ex5b_CheckMonth\ex5b_CheckMonth.csproj", "{9F42D397-A254-41E1-AC3A-357E1D98646C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ex8_RockPaperScissors", "ex8_RockPaperScissors\ex8_RockPaperScissors.csproj", "{9BAED7C0-9895-45C5-A36C-4D32EE532ED2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{279FD9A9-0DE9-456C-9C62-16B7E52F150B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{279FD9A9-0DE9-456C-9C62-16B7E52F150B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{279FD9A9-0DE9-456C-9C62-16B7E52F150B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F42D397-A254-41E1-AC3A-357E1D98646C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F42D397-A254-41E1-AC3A-357E1D98646C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F42D397-A254-41E1-AC3A-357E1D98646C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F42D397-A254-41E1-AC3A-357E1D98646C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9BAED7C0-9895-45C5-A36C-4D32EE532ED2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAED7C0-9895-45C5-A36C-4D32EE532ED2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAED7C0-9895-45C5-A36C-4D32EE532ED2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAED7C0-9895-45C5-A36C-4D32EE532ED2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

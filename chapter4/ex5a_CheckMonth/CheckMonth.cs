@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ex5a_CheckMonth
+namespace ex5b_CheckMonth
 {
     public partial class CheckMonth : Form
     {
