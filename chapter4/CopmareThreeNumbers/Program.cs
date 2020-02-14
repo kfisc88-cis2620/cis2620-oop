@@ -1,4 +1,12 @@
-﻿using System;
+﻿// Filename: ydi_CompareThreeNumbers.csproj
+// Written by: Kelley Fischer
+// Written on: 02/11/20
+// Description: 
+//      Chapter 4 - You Do It: Compare Three Numbers
+//      Prompts the user for numbers, then compares them for equal pairs.
+// Encountered Issues: None;
+
+using System;
 using static System.Console;
 
 class CompareThreeNumbers

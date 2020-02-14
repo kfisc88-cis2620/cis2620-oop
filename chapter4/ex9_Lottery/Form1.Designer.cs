@@ -99,6 +99,7 @@
             this.checkButton.TabIndex = 6;
             this.checkButton.Text = "Check!";
             this.checkButton.UseVisualStyleBackColor = true;
+            this.checkButton.Click += new System.EventHandler(this.CheckButton_Click);
             // 
             // match1Label
             // 

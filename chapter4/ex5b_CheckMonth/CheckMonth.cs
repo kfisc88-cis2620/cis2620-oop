@@ -1,4 +1,13 @@
-﻿using System;
+﻿// Filename: ex5b_CheckMonth.csproj
+// Written by: Kelley Fischer
+// Written on: 02/11/20
+// Description: 
+//      Chapter 4 - Exercise 5b
+//      Receives input from user for the numbers of a birth month and day, then checks
+//      to see if the month and day is valid. If valid, it returns the month and day.
+// Encountered Issues: None;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,7 +21,7 @@ namespace ex5b_CheckMonth
 {
     public partial class CheckMonth : Form
     {
-        const int MAX_MONTHS = 12, MIN_MONTHS = 1;
+
         enum Months
         {
             JANUARY = 1, FEBRUARY, MARCH,
@@ -30,10 +39,6 @@ namespace ex5b_CheckMonth
         {
             int birthMonth = Convert.ToInt32(birthMonthTextBox.Text);
             int birthDay = Convert.ToInt32(dayTextBox.Text);
-            
-            //if (birthMonth < MIN_MONTHS || birthMonth > MAX_MONTHS)
-            //    outputLabel.Text = "Invalid month.";
-
 
             switch ((Months)birthMonth)
             {

@@ -1,4 +1,13 @@
-﻿using System;
+﻿// Filename: ex8_RockPaperScissors.csproj
+// Written by: Kelley Fischer
+// Written on: 02/11/20
+// Description: 
+//      Chapter 4 - Exercise 8
+//      Receives input from the user of either rock, paper, or scissors, then
+//      randomly choooses one of them and compares the result to the input.
+// Encountered Issues: None;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

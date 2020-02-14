@@ -1,4 +1,12 @@
-﻿using System;
+﻿// Filename: ex4_Hurricane.csproj
+// Written by: Kelley Fischer
+// Written on: 02/10/20
+// Description: 
+//      Chapter 4 - Exercise 4
+//      Receives input from user for windspeed, then returns the category of hurricane.
+// Encountered Issues: None;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

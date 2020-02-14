@@ -1,4 +1,13 @@
-﻿using System;
+﻿// Filename: ydi_DailySpecial.csproj
+// Written by: Kelley Fischer
+// Written on: 02/11/20
+// Description: 
+//      Chapter 4 - You Do It: Daily Special
+//      Allows user to input a number value a day of the week to see
+//      what the daily special at a restaurant is for that day.
+// Encountered Issues: None;
+
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

@@ -1,4 +1,13 @@
-﻿using System;
+﻿// Filename: ydi_DemoORAndAND.csproj
+// Written by: Kelley Fischer
+// Written on: 02/11/20
+// Description: 
+//      Chapter 4 - You Do It: DemoORAndAND
+//      Prompts user for a zone and quantity of packages, then returns whether
+//      the delivery is subject to a delivery charge or not.
+// Encountered Issues: None;
+
+using System;
 using static System.Console;
 
 class DemoOrAndAND
